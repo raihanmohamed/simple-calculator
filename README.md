@@ -24,6 +24,8 @@ The result is calculated and displayed
 Program repeats until user chooses Exit
 
 
+
+
 💡 Concepts Practiced
 Loops (while)
 Conditional statements (if-else)
@@ -34,9 +36,15 @@ Error handling (division by zero)
 
 
 
+
+
 ▶️ How to Run
 gcc calculator.c -o calculator
+
 ./calculator
+
+
+
 
 
 📷 Example Output
