@@ -9,15 +9,21 @@ Subtraction of two numbers
 Multiplication of two numbers
 Division with zero-division handling
 Continuous loop until user exits
+
+
 🛠️ Technologies Used
 C Language
 Standard Input/Output (stdio.h)
+
+
 📌 How It Works
 The program displays a menu with options
 User selects an operation (1–5)
 Inputs two numbers
 The result is calculated and displayed
 Program repeats until user chooses Exit
+
+
 💡 Concepts Practiced
 Loops (while)
 Conditional statements (if-else)
@@ -25,9 +31,14 @@ Switch-case logic
 Functions of stdio.h
 Input validation
 Error handling (division by zero)
+
+
+
 ▶️ How to Run
 gcc calculator.c -o calculator
 ./calculator
+
+
 📷 Example Output
 ===== CALCULATOR =====
 1. Addition
